@@ -1,6 +1,6 @@
 # IoT Security 101 Kits
 
-This document provides tiered hardware kit recommendations for IoT and hardware security beginners, intermediates, and advanced hackers.  
+This document provides tiered hardware kit recommendations for IoT and hardware security beginners, intermediates, and advanced hackers ( not too adavce).  
 
 ---
 
