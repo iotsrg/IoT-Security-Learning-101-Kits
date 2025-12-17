@@ -1,4 +1,4 @@
-# IoT Security 101 Kits
+# IoT Security Testing Beginners gadgets
 
 This document provides tiered hardware kit recommendations for IoT and hardware security beginners, intermediates, and advanced hackers ( not too adavce).  
 
