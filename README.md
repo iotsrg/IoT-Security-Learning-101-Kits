@@ -16,38 +16,5 @@ This document provides tiered hardware kit recommendations for IoT and hardware 
 | STLink v2             | SWD Pin Connector                                       | $10 | [Buy Here](https://amzn.to/3uXm8hI) |
 | ESP32                 | MCU for WiFi/Bluetooth testing                         | $10 | [Buy Here](https://amzn.to/33RSRZW) |
 | RPi Zero              | MCU - good for USB attacks (with adapter)              | $15 | [Buy Here](https://amzn.to/3hyDBcK) |
-
-**Total ~ $110**  
-
----
-
-## 🔹 Intermediate Kit (~$200) – Expanding Skills  
-*Adds electrical debugging with multimeter + lowest-cost oscilloscope (Hantek 6022BE)*  
-
-| Component             | Description                                            | Approx. Price (USD) | Buy Link |
-|-----------------------|--------------------------------------------------------|----------------------|----------|
-| Basic Kit Components  | Includes all items from **Basic Kit**                  | $110 | - |
-| Digital Multimeter    | Measure voltage, resistance, continuity                 | $45 | [Buy Here](https://www.fluke.com/en/product/electrical-testing/digital-multimeters/fluke-101) |
-| Hantek 6022BE         | USB oscilloscope (cheap, hacker-approved)              | $70 | [Buy Here](https://amzn.to/3EzzXYi) |
-
-**Total ~ $200–225**  
-
----
-
-## 🔹 Advanced Kit (~$400+) – Pro Hardware Hacking  
-*For serious research: adds professional oscilloscope + microprobing setup*  
-
-| Component             | Description                                            | Approx. Price (USD) | Buy Link |
-|-----------------------|--------------------------------------------------------|----------------------|----------|
-| Intermediate Kit      | Includes all items from **Intermediate Kit**           | $200+ | - |
-| Rigol DS1054Z         | 4-channel oscilloscope, hackable to 100MHz             | $350 | [Buy Here](https://amzn.to/3yAzsFl) |
 | ICE-Bite              | Microprobing for embedded security research            | Open-source (DIY cost varies) | [Check Here](https://github.com/IoTSecurity101/ICEBite) |
 
-**Total ~ $400–600+**  
-
----
-
-## ⚡ Notes  
-- Prices are approximate and vary by region/vendor.  
-- Beginners should start with the **Basic Kit** and only upgrade once they’re comfortable.  
-- Intermediate/Advanced kits provide tools for deeper analysis, fault injection, and side-channel research.  
